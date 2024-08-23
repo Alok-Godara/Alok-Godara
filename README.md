@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alok Godara</h1>
 <h3 align="center">3rd Year BTech Student | Passionate developer skilled in DSA (C++) and machine learning | Eager to create innovative projects and explore new technologies.</h3>
 
-- 🔭 I’m currently working on **Calling Bot**
+- 🔭 I’m currently working on **Calling-Bot Project**
 
 - 🌱 I’m currently learning **React JS, LLMs, MLOps**
 
