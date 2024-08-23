@@ -1,4 +1,3 @@
-![MasterHead](https://github.com/Alok-Godara/Alok-Godara/blob/main/Animation_dsa.gif)
 <h1 align="center">Hi 👋, I'm Alok Godara</h1>
 <h3 align="center">3rd Year BTech Student | Passionate developer skilled in DSA (C++) and machine learning | Eager to create innovative projects and explore new technologies.</h3>
 
