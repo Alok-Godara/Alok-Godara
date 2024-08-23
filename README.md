@@ -2,9 +2,7 @@
 <h1 align="center">Hi 👋, I'm Alok Godara</h1>
 <h3 align="center">3rd Year BTech Student | Passionate developer skilled in DSA (C++) and machine learning | Eager to create innovative projects and explore new technologies.</h3>
 
-<p align="right">
-  <img src="https://github.com/Alok-Godara/Alok-Godara/blob/main/Coding_Img.gif" alt="Coding" width="400" style="border-radius: 7px;">
-</p>
+<img src="https://github.com/Alok-Godara/Alok-Godara/blob/main/Coding_Img.gif" alt="Coding" width="400" style="border-radius: 7px;">
 
 - 🔭 I’m currently working on **Calling-Bot Project**
 
