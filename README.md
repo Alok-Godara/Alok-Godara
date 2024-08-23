@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://shikhar5647.io)
+[![MasterHead](https://github.com/Alok-Godara/Alok-Godara/blob/main/Animation_dsa.gif)]
 <h1 align="center">Hi 👋, I'm Alok Godara</h1>
 <h3 align="center">3rd Year BTech Student | Passionate developer skilled in DSA (C++) and machine learning | Eager to create innovative projects and explore new technologies.</h3>
 
