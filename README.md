@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/Alok-Godara/Alok-Godara/blob/main/Animation_banner.gif)
 <h1 align="center">Hi 👋, I'm Alok Godara</h1>
-<h3 align="center">3rd Year BTech Student | Passionate developer skilled in DSA (C++) and machine learning | Eager to create innovative projects and explore new technologies.</h3>
+<h3 align="center">3rd Year BTech Student | Passionate developer skilled in DSA (Python) and machine learning | Eager to create innovative projects and explore new technologies.</h3>
 
 <img src="https://github.com/Alok-Godara/Alok-Godara/blob/main/Coding_Img.gif" alt="Coding" width="350" align="right" style="border-radius: 7px;">
 
