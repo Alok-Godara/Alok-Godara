@@ -4,13 +4,13 @@
 
 <img src="https://github.com/Alok-Godara/Alok-Godara/blob/main/Coding_Img.gif" alt="Coding" width="350" align="right" style="border-radius: 7px;">
 
-- 🔭 I’m currently working on **Calling-Bot Project**
+- 🔭 I’m currently working on **Health Care**
 
-- 🌱 I’m currently learning **React JS, LLMs, MLOps**
+- 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **DSA, Basic Web-Dev, Machine Learning**
+- 💬 Ask me about **DSA, Web-Dev**
 
-- 📫 How to reach me **alokgodara.official@gmail.com**
+- 📫 How to reach me **b22ci004@iitj.ac.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
